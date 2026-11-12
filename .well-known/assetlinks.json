@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.dagelsx_stack.twa",
+    "sha256_cert_fingerprints": ["7D:02:15:3B:52:DF:6C:BD:80:0A:F4:D2:CC:A6:EC:48:D6:DA:BE:98:9D:60:FC:C8:F8:2C:39:77:2F:50:3E:1C"]
+  }
+}]
